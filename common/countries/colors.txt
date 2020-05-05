@@ -1,5 +1,0 @@
-TAG страны = {
-	color = rgb { 1 1 1 }
-	color_ui = rgb { 1 1 1 }
-}
-
